@@ -1,0 +1,13 @@
+{
+  "video_id": "abcdefghijk",
+  "title": "Synthetic beat lesson (not a real video)",
+  "language_code": "en",
+  "kind": "asr",
+  "has_transcript": true,
+  "segment_count": 3,
+  "segments": [
+    {"start_ms": 0, "duration_ms": 4000, "text": "Set the tempo to 140."},
+    {"start_ms": 2000, "duration_ms": 3500, "text": "Then add a short snare."},
+    {"start_ms": 6000, "duration_ms": 2000, "text": "[music]"}
+  ]
+}
